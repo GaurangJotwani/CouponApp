@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{0A1548EE-3744-4910-86A0-4720FA47EA80}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MangoServices.Coupon.API/Controllers/CouponAPIController.cs">
+    <Files>
+      <File FileName="MangoServices.Coupon.API/Program.cs" Line="16" Column="73" />
+      <File FileName="MangoServices.Coupon.API/Controllers/CouponAPIController.cs" Line="123" Column="14" />
+      <File FileName="MangoServices.Coupon.API/Models/Coupon.cs" Line="1" Column="1" />
+      <File FileName="MangoServices.Coupon.API/Models/Dto/ResponseDto.cs" Line="8" Column="44" />
+      <File FileName="MangoServices.Coupon.API/MappingConfig.cs" Line="16" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mango" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="MangoServices.Coupon.API" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="CouponAPIController.cs" selected="True" />
+                </Node>
+                <Node name="Models" expanded="True">
+                  <Node name="Dto" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.coupon-app PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.MangoServices.Coupon.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
